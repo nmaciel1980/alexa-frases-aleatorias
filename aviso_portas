@@ -1,0 +1,24 @@
+{
+  "Normais-Generica": [
+    "Atenção! A porta está aberta!",
+    "Porta Aberta.",
+    "Feche a porta."
+  ],
+  "Normais-Externa": [
+    "Atenção! A porta da rua está aberta!",
+    "Porta externa aberta.",
+    "Atenção! Estamos vulnerávies com a porta aberta."
+  ],
+   "Engraçadas-Generica": [
+    "Não é por nada, mas a porta está aberta!",
+    "A porta quebrou? Está aberta faz tempo."
+  ],
+   "Engraçadas-Externa": [
+    "A porteira tá aberta!",
+    "Só pra lembrar... Estamos no Brasil e a porta está aberta!",
+    "Brasileiro só fecha a porta depois de roubado mesmo!",
+    "Gente, ajuda a mãe aqui! A porta tá aberta.",
+    "É festa open bar hoje? A porta está aberta.",
+    "A pota está aberta! Já é pra facilitar pro ladrão?! Posso divulgar?"
+  ]
+}
