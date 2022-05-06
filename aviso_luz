@@ -1,0 +1,27 @@
+{
+  "Normais-Singular": [
+    "A luz está acesa.",
+    "A luz ficou acesa.",
+    "Luz ligada."
+  ],
+  "Normais-Plural": [
+    "A luzes estão acesas.",
+    "Muita luz ligada.",
+    "Tá tudo aceso!",
+    "Luzes ligadas."
+  ],
+   "Engraçadas-Singular": [
+    "Comprou a companhia de luz? A luz está acesa!",
+    "A energia daqui é gato? A luz está acesa!",
+    "Esqueceu de novo a luz ligada.",
+    "Você tem medo do escuro? Tem luz acesa.",
+    "Quero só vê a conta de luz quado chegar. Tem lua acesa!"
+  ],
+   "Engraçadas-Plural": [
+    "Compraram a companhia de luz? Muita luz acesa!",
+    "A energia daqui é gato? As luzes estão acesas!",
+    "Esqueceram de novo a luz ligada.",
+    "Têm medo do escuro? Tem muita luz acesa.",
+    "Quero só vê a conta de luz quado chegar. Tá tudo aceso!"
+  ]
+}
